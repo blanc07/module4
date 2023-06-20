@@ -12,7 +12,7 @@ h1 {
     display: block;
 }
 
-.paragraph-2 {
+.paragraph-3 {
     border: blue dotted 5px;
     /*margin: 50px; */
     padding: 50px;
@@ -22,4 +22,11 @@ h1 {
     margin-left: 100px;
     margin-right: 100px;
     border-radius: 50px;
+}
+
+.paragraph-2 {
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+    text-shadow: 3px 2px green;
 }
